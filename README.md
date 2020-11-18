@@ -1,4 +1,4 @@
-# Chaton for Android
+# Chaton Messenger for Android
 
 Chaton is an Android Matrix Client based on [SchildiChat](https://github.com/SpiritCroc/SchildiChat-android).
 It provides by default a simple interface similar to Whatsapp Messenger, Facebook Messenger, or Signal.
