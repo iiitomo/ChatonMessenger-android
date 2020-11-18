@@ -1,22 +1,19 @@
-# SchildiChat for Android
+# Chaton for Android
 
-SchildiChat is an Android Matrix Client based on [Element](https://github.com/vector-im/riotX-android).
+Chaton is an Android Matrix Client based on [SchildiChat](https://github.com/SpiritCroc/SchildiChat-android).
+It provides by default a simple interface similar to Whatsapp Messenger, Facebook Messenger, or Signal.
 
-Compared to the Element app, SchildiChat features following changes:
-- A unified chat list for both direct and group chats
-- Optional message bubbles
-- Follows the system setting for dark/light mode
+Compared to the Element app, Chaton features following changes:
+- Message bubbles enabled by default
+- Follows the system setting for dark/light mode (enabled by default)
+- Unified chat list for both direct and group chats  (enabled by default)
 - Further small usability improvements
 
-<a href="https://f-droid.org/packages/de.spiritcroc.riotx/" alt="Get it on F-Droid" target="_blank"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80"></a>
+Additional features in development:
+- Kids mode (to let your child communicate safely with trusted contacts only)
+- Optional removal of public rooms, enabled by default
 
-The version in the official F-Droid repositories comes without the proprietary libraries for push notifications.
+It is completely free (FOSS) and comes without the proprietary libraries for push notifications.
 This might lead to increased battery drain and a higher delay for delivering messages.
-If you are looking for a version with push notification support, you can get it from [my F-Droid repository](https://s2.spiritcroc.de/fdroid/repo/).
-The latest version should also be available for direct download [here](https://s2.spiritcroc.de/fdroid/SchildiChat.apk).
 
-<a href="https://matrix.to/#/#schildichat-android:matrix.org" target="_blank">Join the discussion on matrix</a>
-
-## Screenshots
-
-<img src="https://raw.githubusercontent.com/SpiritCroc/SchildiChat-android/sc/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png" height="500"/> <img src="https://raw.githubusercontent.com/SpiritCroc/SchildiChat-android/sc/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png" height="500"/> <img src="https://raw.githubusercontent.com/SpiritCroc/SchildiChat-android/sc/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png" height="500"/> <img src="https://raw.githubusercontent.com/SpiritCroc/SchildiChat-android/sc/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png" height="500"/>
+This project is brand new, so consider it as alpha.
