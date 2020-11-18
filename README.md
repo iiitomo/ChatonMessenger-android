@@ -20,6 +20,6 @@ Additional features in development:
 - public rooms disabled (please use another Matrix client if you need them)
 
 It is completely free (FOSS) and comes without the proprietary libraries for push notifications.
-This might lead to increased battery drain and a higher delay for delivering messages.
+This might lead to higher delay for delivering messages.
 
 This project is brand new, so consider it as alpha.
