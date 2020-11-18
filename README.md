@@ -10,7 +10,7 @@ Chaton is a Matrix Client based on [SchildiChat](https://github.com/SpiritCroc/S
 Compared to the Element app, Chaton features following changes:
 - Message bubbles enabled by default
 - Follows the system setting for dark/light mode (enabled by default)
-- Unified chat list for both direct and group chats  (enabled by default)
+- Unified chat list for both direct and group chats (enabled by default)
 - Further small usability improvements
 
 Additional features in development:
