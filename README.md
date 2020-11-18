@@ -4,7 +4,7 @@ Chat and video with your friends, family and colleagues.
 
 Nice interface similar to Whatsapp Messenger, Facebook Messenger, or Signal.
 
-Secure E2EE encrypted private communications only. Completely FOSS. Will only be in F-Droid.
+Secure E2EE encrypted for all communications. Completely FOSS. Will only be in F-Droid.
 
 Privacy: the app does not need your phone number, and does not require access to your phone contacts.
 
